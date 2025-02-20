@@ -1,7 +1,7 @@
  **🌟 AWS Disaster Recovery & Automated Backups 🚀**  
 
 ## **📌 Project Overview**  
-This project **automates backups** for an EC2 instance and sets up a **disaster recovery (DR) plan** using AWS services. It ensures **high availability** with failover routing, a load balancer, and AWS Elastic Disaster Recovery (AWS DRS).  
+This project **automates backups** for an EC2 instance and sets up a **disaster recovery (DR) plan** using AWS services. It ensures **high availability** with failover routing, and AWS Elastic Disaster Recovery (AWS DRS).  
 
 💾 **Automated Backups** | 🌍 **Disaster Recovery** | 🔄 **Failover Mechanism**  
 
@@ -9,7 +9,7 @@ This project **automates backups** for an EC2 instance and sets up a **disaster 
 - **💻 Amazon EC2** – Primary and DR instances in different AWS regions.  
 - **🔄 AWS Backup** – Automates periodic backups of the primary instance.  
 - **⚡ AWS Elastic Disaster Recovery (DRS)** – Enables fast recovery in case of failure.  
-- **🖥️ **AWS Elastic IPs** - Keeps the IP static.  
+- **🖥️ **AWS Elastic IPs** - Keeps the Public IP static.  
 - **🌐 Route 53** – Ensures **seamless failover** with health checks.  
 
 ## **⚙️ Setup Steps**  
