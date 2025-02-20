@@ -1,0 +1,11 @@
+### **🔹 AWS Services & Features Used:**
+1️⃣ **Amazon EC2** – Primary and Secondary Instances for failover  
+2️⃣ **AWS Backup** – Automated and manual backups for disaster recovery  
+3️⃣ **AWS Elastic Disaster Recovery (DRS)** – Seamless failover and recovery  
+4️⃣ **Amazon Route 53** – DNS management and failover routing  
+5️⃣ **Route 53 Health Checks** – Monitoring primary instance availability  
+6️⃣ **Elastic IPs** – Maintaining consistent IPs during failover  
+7️⃣ **Security Groups & IAM Roles** – Access control and security configurations  
+8️⃣ **Amazon S3** (Optional) – Storing backups if needed  
+9️⃣ **AWS Cost Explorer** – Monitoring billing and optimizing resources  
+🔟 **nslookup & dig Commands** – DNS troubleshooting tools  
